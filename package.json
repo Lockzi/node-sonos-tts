@@ -1,13 +1,15 @@
 {
   "name": "sonos-tts",
   "version": "0.0.1",
-  "description": "A simple node module to enable Text-To-Speech through node-sonos-http-api",
+  "description": "A simple node module to enable Text-To-Speech through node-sonos-discovery",
   "author": "Chri Wall <lockzi@gmail.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/Lockzi/node-sonos-tts.git"
   },
-  "dependencies": {},
+  "dependencies": {
+    "sonos-discovery": "git+https://github.com/jishi/node-sonos-discovery.git#master"
+  },
   "engine": "node 0.8.x",
   "main": "lib/text-to-speech.js"
 }
