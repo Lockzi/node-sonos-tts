@@ -1,6 +1,6 @@
 var http = require('http');
 var SonosDiscovery = require('sonos-discovery');
-var SonosTTS = require('./lib/text-to-speech.js');
+var SonosHttpAPI = require('./lib/sonos-http-api.js');
 var fs = require('fs');
 var discovery = new SonosDiscovery();
 var port = 5006;
@@ -14,6 +14,6 @@ fs.exists('./presets.json', function (exists) {
 	} else {
 		console.log('no preset file, ignoring...');
 	}
-	new SonosTTS(discovery, port, presets);
+	new SonosHttpAPI(discovery, port, presets);
 });
 
