@@ -1,0 +1,711 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"id",
+				"sectionID"
+			],
+			[
+				"is",
+				"isLoaded"
+			],
+			[
+				"sections",
+				"sectionsroomsdevices"
+			],
+			[
+				"Section",
+				"SectionList"
+			],
+			[
+				"underscore",
+				"underscore"
+			],
+			[
+				"device",
+				"deviceMatch"
+			],
+			[
+				"getDec",
+				"getDevices  (function)"
+			],
+			[
+				"el",
+				"element"
+			],
+			[
+				"sub",
+				"subKey"
+			],
+			[
+				"sectionMat",
+				"sectionMatchReturn"
+			],
+			[
+				"roomMat",
+				"roomMatchReturn"
+			],
+			[
+				"Right",
+				"right"
+			],
+			[
+				"need",
+				"needleHaystack"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"sear",
+				"searchTerms"
+			],
+			[
+				"Sounde",
+				"Fibaro_Soundex"
+			],
+			[
+				"comp",
+				"completeResults"
+			],
+			[
+				"pull",
+				"pullDevices"
+			],
+			[
+				"strto",
+				"strtolower  (function)"
+			],
+			[
+				"match",
+				"match"
+			],
+			[
+				"soun",
+				"soundexSearchObject"
+			],
+			[
+				"Sear",
+				"soundexSearch  (function)"
+			],
+			[
+				"sound",
+				"soundexSearch"
+			],
+			[
+				"recurs",
+				"recursive_array_search"
+			],
+			[
+				"matching",
+				"matchingScenes"
+			],
+			[
+				"object",
+				"object"
+			],
+			[
+				"search",
+				"searchTermsArray"
+			],
+			[
+				"Fibaro",
+				"Fibaro_Room"
+			],
+			[
+				"Order",
+				"ORDER"
+			],
+			[
+				"find",
+				"findDevice"
+			],
+			[
+				"properties",
+				"device_properties-node_id"
+			],
+			[
+				"colun",
+				"column_prefix"
+			],
+			[
+				"column",
+				"column_prefix"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"obje",
+				"objectToArray"
+			],
+			[
+				"___",
+				"__METHOD__"
+			],
+			[
+				"key",
+				"keySearchReplace"
+			],
+			[
+				"strrepl",
+				"str_replace  (function)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"align",
+				"Preferences: Alignment File Settings – User"
+			],
+			[
+				"packa install",
+				"Package Control: Install Package"
+			],
+			[
+				"set javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"setjavasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set javasct",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set syn java",
+				"Set Syntax: Java"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"sejavasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"sft",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"blo ",
+				"Toggle Block Comment"
+			],
+			[
+				"block ",
+				"Toggle Block Comment"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"block com",
+				"Toggle Block Comment"
+			],
+			[
+				"COMMENT",
+				"Toggle Block Comment"
+			],
+			[
+				"sex php",
+				"Set Syntax: PHP"
+			],
+			[
+				"toggle",
+				"Toggle Block Comment"
+			],
+			[
+				"bloc co",
+				"Toggle Block Comment"
+			],
+			[
+				"block c",
+				"Toggle Block Comment"
+			],
+			[
+				"blo co",
+				"Toggle Block Comment"
+			],
+			[
+				"block co",
+				"Toggle Block Comment"
+			],
+			[
+				"commen",
+				"Toggle Block Comment"
+			],
+			[
+				"brow",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"brows",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"ftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"bro",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"browse",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"ftp ",
+				"SFTP: Browse Server…"
+			],
+			[
+				"codeinte",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"ftpbr",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"packag insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packagep",
+				"Package Control: Add Repository"
+			],
+			[
+				"packa install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"zen",
+				"Zen Coding: Zen as you type"
+			],
+			[
+				"ftp shw",
+				"SFTP: Show Panel"
+			],
+			[
+				"sfre",
+				"SFTP: Browse Server…"
+			],
+			[
+				"ftp br",
+				"SFTP: Browse Server…"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"show pan",
+				"SFTP: Show Panel"
+			],
+			[
+				"fto",
+				"SFTP: Show Panel"
+			],
+			[
+				"oacke",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/cwallenius/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/Users/cwallenius/Library/Application Support/Sublime Text 2/Packages/User/SFTP.sublime-settings",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/public/js/libs/ember-data-2013-04-21.js",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/controllers/fibaro.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/public/index.html",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/public/js/app.js",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/views/interface/index.blade.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/controllers/interface.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/controllers/api/device.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/public/js/collections/fibaro.js",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/public/js/models/fibaro.js",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/public/js/views/device/list.js",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/public/js/router.js",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/public/js/main.js",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/public/js/boilerplate-demo.js",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/public/js/fibaro.js",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/public/build/app.build.js",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/public/.bowerrc",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/public/js/text.js",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/public/component.json",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/public/src/app.js",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/public/src/scripts/bundles/device/main.js",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/public/src/scripts/main.js",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/public/src/scripts/app.js",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/public/src/scripts/router.js",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/public/build/build.sh",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/routes.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/public/js/boilerplate.js",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/sftp-config.json",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/models/fibaro/device.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/controllers/api/section.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/controllers/api/room.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/models/fibaro.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/storage/logs/2013-03-12.log",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/views/device/index.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/controllers/device.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/models/fibaro/soundex.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/controllers/API/device.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/controllers/base.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/models/fibaro/section.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/models/fibaro/room.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/storage/logs/2013-03-11.log",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/config/fibaro.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/controllers/siri.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/models/fibaro/depricated.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/models/fibaro/scene.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/models/fibaroDepricated.php",
+		"/Users/cwallenius/Downloads/Home-Automation-Internet-master/ufmirn/addDevice.php",
+		"/Users/cwallenius/Downloads/Home-Automation-Internet-master/ufmirn/deviceList.php",
+		"/Users/cwallenius/Downloads/Home-Automation-Internet-master/ufmirn/deviceList.php~",
+		"/Users/cwallenius/Downloads/Home-Automation-Internet-master/ufmirn/deviceStatus.php",
+		"/Users/cwallenius/Downloads/Home-Automation-Internet-master/ufmirn/deviceStatus.php~",
+		"/Users/cwallenius/Downloads/Home-Automation-Internet-master/ufmirn/getDB.php",
+		"/Users/cwallenius/Downloads/Home-Automation-Internet-master/ufmirn/index.php",
+		"/Users/cwallenius/Downloads/Home-Automation-Internet-master/ufmirn/insertIntoDb.php",
+		"/Users/cwallenius/Downloads/Home-Automation-Internet-master/ufmirn/log.txt",
+		"/Users/cwallenius/Downloads/Home-Automation-Internet-master/ufmirn/smsLink.py",
+		"/Users/cwallenius/Downloads/Home-Automation-Internet-master/ufmirn/tests.php",
+		"/Users/cwallenius/Downloads/Home-Automation-Internet-master/ufmirn/updateAndAct.php",
+		"/Users/cwallenius/Downloads/Home-Automation-Internet-master/ufmirn/varun.txt",
+		"/Users/cwallenius/Dropbox/_DATA/Development/siriproxy-domotic/siriproxy-domotic.gemspec",
+		"/Users/cwallenius/Dropbox/_DATA/Development/siriproxy-domotic/lib/siriproxy-domotic.rb",
+		"/Users/cwallenius/Dropbox/_DATA/Development/siriproxy-domotic/sftp-config.json",
+		"/Users/cwallenius/Dropbox/_DATA/Development/siriproxy-domotic/.gitignore",
+		"/Users/cwallenius/Dropbox/_DATA/Development/SiriProxy-Domotic/lib/siriproxy-domotic.rb",
+		"/Users/cwallenius/Dropbox/_DATA/Development/SiriProxy-Domotic/siriproxy-domotic.gemspec",
+		"/Users/cwallenius/Dropbox/_DATA/Development/backup/SiriProxy-Domotic/lib/domotic_library.rb",
+		"/Users/cwallenius/Dropbox/_DATA/Development/backup/SiriProxy-Domotic/README.md",
+		"/Users/cwallenius/Dropbox/_DATA/Development/backup/SiriProxy-Domotic/lib/siriproxy-domotic.rb",
+		"/Users/cwallenius/Dropbox/_DATA/Development/backup/SiriProxy-Domotic/siriproxy-domotic.gemspec",
+		"/Users/cwallenius/Dropbox/_DATA/Development/SiriProxy-Fibaro/config-info.yml",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/models/fibaro/searchtoken.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/config/cache.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/models/fibaro/searchtokens.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/migrations/2013_02_19_144400_create_searchtokens_table.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/migrations/2013_02_20_171753_create_room_device_table.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/migrations/2013_02_10_134134_create_devices_table.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/migrations/2013_02_10_133729_create_rooms_table.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/migrations/2013_02_10_134923_create_sections_table.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/migrations/2013_02_23_004923_create_device_action_table.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/migrations/2013_02_10_134806_create_scenes_table.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/migrations/2013_02_23_004914_create_actions_table.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/migrations/2013_02_23_003540_create_actions.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/migrations/2013_02_20_171801_create_section_room_table.php",
+		"/Users/cwallenius/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/Laravel-dd.sublime-snippet",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/migrations/2013_02_10_133729_create_fibaro_rooms_table.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/migrations/2013_02_10_134923_create_fibaro_sections_table.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/migrations/2013_02_10_134134_create_fibaro_devices_table.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/models/jaro-winkler_function",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/laravel/database/eloquent/model.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/migrations/2013_02_10_130442_create_credentials_table.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/migrations/2013_02_10_134806_create_fibaro_scenes_table.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/config/error.php",
+		"/Users/cwallenius/Dropbox/_DATA/Development/Domotic/application/config/application.php",
+		"/Users/cwallenius/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/Domotic",
+		"/Users/cwallenius/Downloads/install.php",
+		"/Users/cwallenius/Dropbox/_DATA/Work/Steridose/2012/Layout förslag/xhtml/sftp-config.json",
+		"/Users/cwallenius/Dropbox/_DATA/Work/Steridose/2012/Layout förslag/xhtml/steridose.html",
+		"/Users/cwallenius/Dropbox/_DATA/Work/Steridose/2012/Layout förslag/xhtml/steridose.html",
+		"/Users/cwallenius/Dropbox/_DATA/Work/Steridose/2012/Layout förslag/xhtml/stylesheets/app.css",
+		"/Users/cwallenius/Library/Application Support/Sublime Text 2/Packages/User/SFTP.errors.log",
+		"/Users/cwallenius/Dropbox/_DATA/Work/Steridose/2012/Layout förslag/xhtml/sftp-config.json",
+		"/Users/cwallenius/Dropbox/_DATA/Work/Steridose/2012/Layout förslag/xhtml/stylesheets/app.css",
+		"/Users/cwallenius/Dropbox/_DATA/Work/Steridose/2012/Layout förslag/xhtml/Foundation.sublime-project",
+		"/Users/cwallenius/Dropbox/_DATA/Work/Steridose/2012/Layout förslag/xhtml/stylesheets/foundation.css",
+		"/Users/cwallenius/Dropbox/_DATA/Work/Steridose/2012/Layout förslag/xhtml/stylesheets/foundation.css",
+		"/Users/cwallenius/Dropbox/_DATA/Work/Steridose/2012/public_html/sfresh test.sublime-project",
+		"/Users/cwallenius/Dropbox/_DATA/Work/Steridose/2012/public_html/test/plugins/cck_field/rp_google_map/rp_google_map.php",
+		"/Users/cwallenius/Dropbox/_DATA/Work/Steridose/2012/public_html/test/sftp-config.json",
+		"/Users/cwallenius/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/sfresh public_html",
+		"/Users/cwallenius/Dropbox/_DATA/Work/Steridose/2012/Steridose oneweb/sftp-config.json",
+		"/Users/cwallenius/Dropbox/_DATA/Work/Steridose/2012/Steridose oneweb/index.php",
+		"/Users/cwallenius/Dropbox/_DATA/Work/Steridose/2012/Steridose oneweb/css/style-commented.css",
+		"/Users/cwallenius/Dropbox/_DATA/Work/Steridose/2012/Steridose oneweb/logic.php",
+		"/Users/cwallenius/Dropbox/_DATA/Work/Steridose/2012/Steridose oneweb/html/com_content/article/default.php",
+		"/var/folders/jq/92l866vx2_130y019dzt2qvr0000gn/T/sublime-sftp-browse-1351171804/sFresh/public_html/test/templates/seb_one/index.php",
+		"/Users/cwallenius/Downloads/mod_maximenuck_6.1.2_j25/mod_maximenuck.xml",
+		"/Users/cwallenius/Dropbox/_DATA/Work/Steridose/2012/Steridose oneweb/images/steridose_content_background_150_size copy.png",
+		"/var/folders/jq/92l866vx2_130y019dzt2qvr0000gn/T/sublime-sftp-browse-1350827948/sFresh/public_html/test/templates/oneweb/index.php",
+		"/var/folders/jq/92l866vx2_130y019dzt2qvr0000gn/T/sublime-sftp-browse-1350827191/sFresh/public_html/test/templates/oneweb/css/style-commented.css",
+		"/var/folders/jq/92l866vx2_130y019dzt2qvr0000gn/T/sublime-sftp-browse-1350826792/sFresh/public_html/test/templates/steridose/html/com_content/article/default.php",
+		"/Users/cwallenius/Downloads/j2xml150620121020203215.xml",
+		"/Users/cwallenius/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/sFresh",
+		"/Users/cwallenius/Library/Application Support/Sublime Text 2/Packages/User/Gist.sublime-settings",
+		"/Users/cwallenius/Library/Application Support/Sublime Text 2/Packages/SFTP/SFTP.sublime-settings",
+		"/Users/cwallenius/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/cwallenius/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"room.",
+			"Post",
+			"Fibaro_Device",
+			"XBMC",
+			"brainwave9",
+			"xbmc",
+			"FALSE",
+			"sectionMatchComplete",
+			"roomMatchComplete",
+			"deviceMatchComplete",
+			"perfectMatchComplete",
+			"soundexS",
+			"self",
+			"Fibaro::soundex",
+			"scene",
+			"matchingdevices",
+			"matchingRooms",
+			"Device",
+			"scenes",
+			"php",
+			"matchingObject",
+			"searchTermsArray",
+			"php",
+			"device",
+			"words",
+			"self",
+			"recentlyUpdated",
+			"$test",
+			"));",
+			"actions",
+			"$section",
+			"Fibaro_Section",
+			"$room",
+			"Fibaro_Room",
+			"$section",
+			"section",
+			"Section",
+			"section",
+			"sublime",
+			"'",
+			"`",
+			"= .",
+			"dd(",
+			"dd",
+			"_recentlyUpdated",
+			"apiRequest",
+			"php",
+			"ul",
+			"00b4cc",
+			"008c9e",
+			"a ",
+			"navi",
+			"\"><",
+			"false",
+			"∂assword",
+			"false"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"controllers.rooms.",
+			"controllers.rooms",
+			"Device",
+			"Fibaro_Room",
+			"`",
+			"'",
+			".= ",
+			"_recentlyupdated",
+			"aptGetRequest"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 179.0
+	},
+	"project": "sonos-http-api.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"modelsection",
+				"Domotic/application/models/fibaro/section.php"
+			],
+			[
+				"modeldevice",
+				"Domotic/application/models/fibaro/device.php"
+			],
+			[
+				"modelroom",
+				"Domotic/application/models/fibaro/room.php"
+			],
+			[
+				"soun",
+				"application/models/fibaro/soundex.php"
+			],
+			[
+				"sect",
+				"application/models/fibaro/section.php"
+			],
+			[
+				"device",
+				"application/models/fibaro/device.php"
+			],
+			[
+				"scene",
+				"application/models/fibaro/scene.php"
+			],
+			[
+				"logic",
+				"logic.php"
+			],
+			[
+				".css",
+				"css/style-commented.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
