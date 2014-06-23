@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/cwallenius/Dropbox/_DATA/Development/node-sonos-http-api"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/cwallenius/Dropbox/_DATA/Development/sonos-discovery"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/cwallenius/Dropbox/_DATA/Development/sonos-tts"
+		}
+	]
+}
